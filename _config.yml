@@ -8,11 +8,8 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: YoungheeGGo
-blog_url: https://www.nagekar.com
+blog_url: https://youngheeggo-tech.blogspot.com/
 email: youngheego14@gmail.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
 
 # absolute or relative
 profile_picture: assets/images/yh-photo.jpg
