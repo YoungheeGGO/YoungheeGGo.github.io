@@ -88,9 +88,9 @@ function blog_posts() {
             <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
         </div>
     </div>
-    `;*/
+    `;
 
-    post_html.push(post_template);
+    post_html.push(post_template);*/
 
     $('#rss-feeds').html(post_html);
 
