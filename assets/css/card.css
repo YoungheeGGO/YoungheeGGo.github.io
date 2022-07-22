@@ -77,7 +77,7 @@
 
 /* blog cards */
 .blog-post {
-	width: 100%;
+	width: 50%;
 	border-radius: 2px;
 	display: grid;
 	grid-template-columns: auto 50px;
