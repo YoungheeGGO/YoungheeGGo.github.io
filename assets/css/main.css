@@ -345,7 +345,7 @@ img {
 }
 
 .blog-item {
-  padding: 5px;
+  padding: 10px;
   -webkit-transition: all ease-in-out 0.3s;
   transition: all ease-in-out 0.3s;
 }
