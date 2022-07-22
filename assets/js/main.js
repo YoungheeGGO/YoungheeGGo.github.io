@@ -75,7 +75,7 @@ function blog_posts() {
     }
 
     // for the more posts link
-    let post_template = `
+    /*let post_template = `
     <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
 
         <div class="blog-link">
@@ -88,7 +88,7 @@ function blog_posts() {
             <img class="blog-arrow" src="/assets/images/right-open-mini.svg"/>
         </div>
     </div>
-    `;
+    `;*/
 
     post_html.push(post_template);
 
