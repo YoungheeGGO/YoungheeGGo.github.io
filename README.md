@@ -1,3 +1,7 @@
+- project부분 변경
+- blog -> work experiences 로 바꾸기
+- 하 젤 중요한것들만 남았따!!!!
+
 # Portfolio
 
 A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
