@@ -163,7 +163,7 @@ img {
 }
 
 .section {
-  max-width: 768px;
+  max-width: 800px; /*Origin: 768*/
   margin: 60px auto;
   padding: 20px 0;
   min-height: 100vh;
@@ -326,7 +326,7 @@ img {
   margin: 10px 0;
   float: right;
   font-weight: 500;
-  font-size: 13px; /*origin: 16*/
+  font-size: 16px; 
   font-size: 1rem;
 }
 
