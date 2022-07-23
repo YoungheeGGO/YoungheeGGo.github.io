@@ -155,7 +155,7 @@
   max-width: 1080px;
   margin: 100px auto;
   padding: 0 20px;
-  position: relative;
+  position: absolute;
 }
 .wrapper-line .center-line{
   position: absolute;
