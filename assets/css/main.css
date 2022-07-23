@@ -592,9 +592,9 @@ a {
 html{
   scroll-behavior: smooth;
 }
-/*body{
-  /*background: #444; /*origin: 3ea0e2 */*/
-}*/
+body{
+  background: #fff; /*origin: 3ea0e2 */*/
+}
 /*::selection{
   color: #fff;
   background: #3ea0e2; /*origin: 3ea0e2*/
