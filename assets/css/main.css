@@ -12,7 +12,7 @@ img {
 .head {
 
   color: #fff;
-  min-height: 100vh;
+  min-height: 70vh; /*Origin: 100*/
 
   display: -webkit-box;
 
@@ -166,7 +166,7 @@ img {
   max-width: 800px; /*Origin: 768*/
   margin: 60px auto;
   padding: 20px 0;
-  min-height: 100vh;
+  min-height: 70vh; /*Origin: 100*/
 
   display: -webkit-box;
 
