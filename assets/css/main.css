@@ -640,7 +640,7 @@ body{
   content: "";
   height: 15px;
   width: 15px;
-  background: #000000; /*fff*/
+  background: #fff; /*fff*/
   top: 28px;
   z-index: -1;
   transform: rotate(45deg);
