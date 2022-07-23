@@ -633,7 +633,7 @@ html{
 }
 .wrapper-line .row section::before{
   /*arrow*/
-  position: absolute;
+  position: relative; /*absolute*/
   content: "";
   height: 15px;
   width: 15px;
