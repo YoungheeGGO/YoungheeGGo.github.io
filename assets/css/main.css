@@ -293,8 +293,8 @@ img {
 }
 
 .technologies-grid-item {
-  width: 96.6666px;
-  height: 96.6666px;
+  width: 90.px; /*Origin: 96.6666*/
+  height: 90.px; /*Origin: 96.6666*/
   background-color: #fff;
 }
 
