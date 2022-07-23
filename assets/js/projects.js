@@ -18,13 +18,9 @@ let render_projects = (slug) => {
             technologies: ['Catboost', 'XAI'],
             description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
             categories: ['featured', 'paper']
-        },
+        }
         
-        
-        
-        
-        
-        
+ 
         
     ]
 
