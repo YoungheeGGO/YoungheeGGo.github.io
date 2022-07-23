@@ -589,7 +589,7 @@ a {
   max-width: 1080px;
   margin: 50px auto;
   padding: 0 20px;
-  position: absolute;
+  position: relative;
 }
 .wrapper-line .center-line{
   position: absolute;
