@@ -609,14 +609,14 @@ a {
 .wrapper-line .row-2{
   justify-content: flex-end;
 }
-.wrapper-line .row section{
+.wrapper-line .row section__{
   background: #fff;
   border-radius: 5px;
   width: calc(50% - 40px);
   padding: 20px;
   position: relative;
 }
-.wrapper-line .row section::before{
+.wrapper-line .row section__::before{
   /*arrow*/
   position: absolute;
   content: "";
@@ -627,14 +627,14 @@ a {
   z-index: -1;
   transform: rotate(45deg);
 }
-.row-1 section::before{
+.row-1 section__::before{
   /*arrow*/
   right: -7px;
 }
-.row-2 section::before{
+.row-2 section__::before{
   left: -7px;
 }
-.row section .icon,
+.row section__ .icon,
 .center-line .scroll-icon{
   position: absolute;
   background: #f2f2f2; /*origin:f2f2f2*/
@@ -653,28 +653,28 @@ a {
   font-size: 25px;
   transform: translateX(-50%);
 }
-.row-1 section .icon{
+.row-1 section__ .icon{
   top: 15px;
   right: -60px;
 }
-.row-2 section .icon{
+.row-2 section__ .icon{
   top: 15px;
   left: -60px;
 }
-.row section .details,
-.row section .bottom{
+.row section__ .details,
+.row section__ .bottom{
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.row section .details .title{
+.row section__ .details .title{
   font-size: 22px;
   font-weight: 600;
 }
-.row section p{
+.row section__ p{
   margin: 10px 0 17px 0;
 }
-.row section .bottom a{
+.row section__ .bottom a{
   text-decoration: none;
   background: #fff; /*3ea0e2*/
   color: #fff;
@@ -684,7 +684,7 @@ a {
   font-weight: 400;
   transition: all 0.3s ease;
 }
-.row section .bottom a:hover{
+.row section__ .bottom a:hover{
   transform: scale(0.97);
 }
 @media(max-width: 790px){
@@ -694,20 +694,20 @@ a {
   .wrapper-line .row{
     margin: 30px 0 3px 60px;
   }
-  .wrapper-line .row section{
+  .wrapper-line .row section__{
     width: 100%;
   }
-  .row-1 section::before{
+  .row-1 section__::before{
     left: -7px;
   }
-  .row-1 section .icon{
+  .row-1 section__ .icon{
     left: -60px;
   }
 }
 @media(max-width: 440px){
   .wrapper-line .center-line,
-  .row section::before,
-  .row section .icon{
+  .row section__::before,
+  .row section__ .icon{
     display: none;
   }
   .wrapper-line .row{
