@@ -622,7 +622,7 @@ a {
   content: "";
   height: 15px;
   width: 15px;
-  background: #fff;
+  background: #000000;
   top: 28px;
   z-index: -1;
   transform: rotate(45deg);
