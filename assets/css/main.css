@@ -592,15 +592,15 @@ a {
 html{
   scroll-behavior: smooth;
 }
-body{
+/*body{
   /*background: #444; /*origin: 3ea0e2 */*/
-}
-::selection{
+}*/
+/*::selection{
   color: #fff;
   background: #3ea0e2; /*origin: 3ea0e2*/
-}
+}*/
 .wrapper{
-  max-width: 1080px;
+  max-width: 2000px;
   margin: 50px auto;
   padding: 0 20px;
   position: relative;
