@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Social Isolation for 20\'s',
             //demo: 'http://wall-e-jekyll.github.io/',
             technologies: ['Catboost', 'XAI'],
-            description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
+            description: "Prediction of Social Isolation in the 20s using machine learning and deep learning."<br/>,
             categories: ['featured', 'paper']
         },
         
