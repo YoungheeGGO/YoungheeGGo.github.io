@@ -326,7 +326,7 @@ img {
   margin: 10px 0;
   float: right;
   font-weight: 500;
-  font-size: 16px; 
+  font-size: 10px; /*Origin: 16*/ 
   font-size: 1rem;
 }
 
@@ -637,7 +637,7 @@ html{
   content: "";
   height: 15px;
   width: 15px;
-  background: #fff; /*fff*/
+  background: #3ea0e2; /*fff*/
   top: 28px;
   z-index: -1;
   transform: rotate(45deg);
