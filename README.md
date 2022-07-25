@@ -2,6 +2,7 @@
 - blog -> work experiences 로 바꾸기 (와 이거 내가 원하는 디자인대로 될까...?) -> 됨!!! 내가 해냈따아!~!!!!
 - 하 젤 중요한것들만 남았따!!!!
 - RGBrand 링크 복구하기 -> project 9번 10번 추가해야댐
+- github repo 모두 영어로 바꾸기! (지금 이것도...)
 
 <br/>
 - A file compling 'careers' is "blog.html"
