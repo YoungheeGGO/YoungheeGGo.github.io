@@ -75,6 +75,17 @@ let render_projects = (slug) => {
                 description: "An analysis of the location of shared personal mobility parking spaces in Seoul through population analysis",
                 categories: ['viz']
             },
+
+            {
+                image: 'assets/images/library.png',
+                link: 'https://github.com/YoungheeGGO/Library-Bigdata-Competition',
+                title: 'Book borrow analysis for kids',
+                /*demo: false*/
+                technologies: ['Tableau','WordCloud'],
+                description: "Grasping the trends of children's books over time from the perspective of parents and children respectively.",
+                categories: ['viz']
+            }            
+            
            
     ]
 
