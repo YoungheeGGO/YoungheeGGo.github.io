@@ -58,7 +58,7 @@ let render_projects = (slug) => {
             },
             
             {
-                image: '',
+                image: 'assets/images/yongin.png',
                 link: 'https://github.com/YoungheeGGO/Yong-In-Si-Bigdata-Competition',
                 title: 'Local business analysis',
                 /*demo: false*/
