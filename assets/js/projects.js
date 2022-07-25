@@ -1,6 +1,4 @@
-<!--
-RGBrand랑 Covid19 Classification 추가해야함. RGBrand 링크 복구해야됨.
--->
+<!--RGBrand랑 Covid19 Classification 추가해야함. RGBrand 링크 복구해야됨.-->
 
 $(document).ready(() => {
     render_projects('featured');
