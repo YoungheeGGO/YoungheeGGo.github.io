@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Social Isolation for 20\'s',
             /*demo: false*/
             technologies: ['Catboost', 'XAI'],
-            description: "Prediction of Social Isolation in the 20s using machine learning and deep learning."\n,
+            description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
             categories: ['featured', 'paper']
         }
  
@@ -56,7 +56,7 @@ let project_mapper = project => {
                                 
                     <div class="card__meta">
                         ${project.technologies.map(tech =>
-                            `<span class="project-technology paragraph-text-normal">${tech}</span>`
+                            `<br/><span class="project-technology paragraph-text-normal">${tech}</span>`
                         ).join('')}
                     </div>
                 </div>
