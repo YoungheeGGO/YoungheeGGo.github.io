@@ -35,17 +35,17 @@ let render_projects = (slug) => {
                 title: 'IMa3 Dashboard',
                 /*demo: false*/
                 technologies: ['Biostatistics', 'Rshiny'],
-                description: "Dashboard, running after the IMA3 software, for diagnosing MCMCs and parameter plotting",
+                description: "Dashboard, running with the IMA3 software\'s output, for diagnosing MCMCs and parameter plotting",
                 categories: ['featured','viz']
             },
               {
-                image: 'assets/images/biostatistics.png',
-                link: 'https://github.com/YoungheeGGO/R-Shiny-IMa3_dashboard',
-                title: 'IMa3 Dashboard',
+                image: 'assets/images/apartment.png',
+                link: 'https://github.com/YoungheeGGO/TimeSeriesData-Analysis',
+                title: 'Prediction Apartment Price',
                 /*demo: false*/
-                technologies: ['Biostatistics', 'Rshiny'],
-                description: "Dashboard, running after the IMA3 software, for diagnosing MCMCs and parameter plotting",
-                categories: ['featured','viz']
+                technologies: ['Stationary', 'ARIMA'],
+                description: "Prediction of the actual apartment transaction price index in Seoul using time series analysis methods.",
+                categories: ['ml']
             }
  
         
