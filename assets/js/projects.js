@@ -30,7 +30,7 @@ let render_projects = (slug) => {
             },
             
             {
-                image: 'assets/images/biostatistics.png',
+                image: 'assets/images/biostatistics-cut.png',
                 link: 'https://github.com/YoungheeGGO/R-Shiny-IMa3_dashboard',
                 title: 'IMa3 Dashboard',
                 /*demo: false*/
