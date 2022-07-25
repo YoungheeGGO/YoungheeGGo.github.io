@@ -226,7 +226,7 @@ img {
   font-family: 'PT Sans', sans-serif;
   font-size: 20.8px;
   font-size: 1.3rem;
-  margin: 30px auto;
+  margin: 40px auto; /*Origin: 30*/
   color: #404040;
 }
 
