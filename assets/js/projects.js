@@ -14,7 +14,7 @@ let render_projects = (slug) => {
             image: 'assets/images/statistics-Jornal-cut.jpg',
             link: 'https://github.com/YoungheeGGO/Social_Isolation_for_20s',
             title: 'Social Isolation for 20\'s',
-            //demo: 'http://wall-e-jekyll.github.io/',
+            demo: false
             technologies: ['Catboost', 'XAI'],
             description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
             categories: ['featured', 'paper']
