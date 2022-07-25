@@ -56,6 +56,16 @@ let render_projects = (slug) => {
                 description: "Understanding consumption trends through Korean review analysis of Hand Cream.",
                 categories: ['dl']
             },
+            
+            {
+                image: '',
+                link: 'https://github.com/YoungheeGGO/Yong-In-Si-Bigdata-Competition',
+                title: 'Local business analysis',
+                /*demo: false*/
+                technologies: ['GMM'],
+                description: "Derivation of measures to support young entrepreneurs through regional commercial district analysis in YongIn-si,South Korea",
+                categories: ['ml','featured']
+            }
  
         
     ]
