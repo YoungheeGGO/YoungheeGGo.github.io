@@ -48,7 +48,7 @@ let render_projects = (slug) => {
                 categories: ['ml']
             },
             {
-                image: '',
+                image: 'assets/images/handcream.png',
                 link: 'https://github.com/YoungheeGGO/Cosmetic-Review-Analysis',
                 title: 'Cosmetic Review Analysis',
                 /*demo: false*/
