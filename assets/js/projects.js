@@ -43,7 +43,7 @@ let render_projects = (slug) => {
                 link: 'https://github.com/YoungheeGGO/TimeSeriesData-Analysis',
                 title: 'Prediction Apartment Price',
                 /*demo: false*/
-                technologies: ['ARIMA'],
+                technologies: ['ARIMA','TimeSeries'],
                 description: "Prediction of the actual apartment transaction price index in Seoul using time series analysis methods.",
                 categories: ['ml']
             }
