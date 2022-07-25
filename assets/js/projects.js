@@ -10,15 +10,24 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
         let projects_obj = [
-        {
-            image: 'assets/images/statistics-Jornal-cut.jpg',
-            link: 'https://github.com/YoungheeGGO/Social_Isolation_for_20s',
-            title: 'Social Isolation for 20\'s',
-            /*demo: false*/
-            technologies: ['Catboost', 'XAI'],
-            description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
-            categories: ['featured', 'paper']
-        }
+            {
+                image: 'assets/images/statistics-Jornal-cut.jpg',
+                link: 'https://github.com/YoungheeGGO/Social_Isolation_for_20s',
+                title: 'Social Isolation for 20\'s',
+                /*demo: false*/
+                technologies: ['Catboost', 'XAI'],
+                description: "Prediction of Social Isolation in the 20s using machine learning and deep learning.",
+                categories: ['featured', 'paper']
+            },
+            {
+                image: 'assets/images/statistics-Jornal-cut.jpg',
+                link: 'https://github.com/YoungheeGGO/Dacon_koreanNLP',
+                title: 'Korean NLP Inference',
+                /*demo: false*/
+                technologies: ['NLP', 'BERT'],
+                description: "Recognizing Textual Entailment for Korean - the task of determining the inference relation between two texts: entailment, contradiction, or neutral",
+                categories: ['dl']
+            }
  
         
     ]
