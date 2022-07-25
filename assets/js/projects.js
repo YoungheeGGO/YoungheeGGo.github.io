@@ -25,7 +25,7 @@ let render_projects = (slug) => {
                 title: 'Korean NLP Inference',
                 /*demo: false*/
                 technologies: ['NLP', 'BERT'],
-                description: "The task of determining the inference relation between two texts: entailment, contradiction, or neutral",
+                description: "The task of determining the inference relation between two texts: entailment, contradiction, or neutral.",
                 categories: ['dl']
             },
             
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
                 title: 'IMa3 Dashboard',
                 /*demo: false*/
                 technologies: ['Biostatistics'],
-                description: "Dashboard, running with the IMA3 software\'s output, for diagnosing MCMCs and parameter plotting",
+                description: "Dashboard, running with the IMA3 software\'s output, for diagnosing MCMCs and parameter plotting.",
                 categories: ['featured','viz']
             },
               {
@@ -43,10 +43,19 @@ let render_projects = (slug) => {
                 link: 'https://github.com/YoungheeGGO/TimeSeriesData-Analysis',
                 title: 'Prediction Apartment Price',
                 /*demo: false*/
-                technologies: ['ARIMA','TimeSeries'],
+                technologies: ['TimeSeries','ARIMA'],
                 description: "Prediction of the actual apartment transaction price index in Seoul using time series analysis methods.",
                 categories: ['ml']
-            }
+            },
+            {
+                image: '',
+                link: 'https://github.com/YoungheeGGO/Cosmetic-Review-Analysis',
+                title: 'Cosmetic Review Analysis',
+                /*demo: false*/
+                technologies: ['NLP','Word2Vec'],
+                description: "Understanding consumption trends through Korean review analysis of Hand Cream.",
+                categories: ['dl']
+            },
  
         
     ]
