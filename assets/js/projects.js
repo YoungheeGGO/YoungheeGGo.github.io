@@ -20,7 +20,7 @@ let render_projects = (slug) => {
                 categories: ['featured', 'paper']
             },
             {
-                image: 'assets/images/statistics-Jornal-cut.jpg',
+                image: 'assets/images/bert.png',
                 link: 'https://github.com/YoungheeGGO/Dacon_koreanNLP',
                 title: 'Korean NLP Inference',
                 /*demo: false*/
