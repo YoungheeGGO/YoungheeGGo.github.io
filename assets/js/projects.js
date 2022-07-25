@@ -9,7 +9,7 @@ let render_projects = (slug) => {
     $('.white-button').removeClass('white-button-hover');
     $(`#${slug}`).addClass('white-button-hover');
 
-    let projects_obj = [
+        let projects_obj = [
         {
             image: 'assets/images/statistics-Jornal-cut.jpg',
             link: 'https://github.com/YoungheeGGO/Social_Isolation_for_20s',
@@ -55,7 +55,6 @@ let project_mapper = project => {
                     </article>
                                 
                     <div class="card__meta">
-                        <br/>
                         ${project.technologies.map(tech =>
                             `<span class="project-technology paragraph-text-normal">${tech}</span>`
                         ).join('')}
