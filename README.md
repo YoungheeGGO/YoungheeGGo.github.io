@@ -1,4 +1,4 @@
-- project부분 변경
+- project부분 변경 -> technologies tag 마진 조정하기!
 - blog -> work experiences 로 바꾸기 (와 이거 내가 원하는 디자인대로 될까...?) -> 됨!!! 내가 해냈따아!~!!!!
 - 하 젤 중요한것들만 남았따!!!!
 
