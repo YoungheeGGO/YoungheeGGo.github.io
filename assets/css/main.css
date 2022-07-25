@@ -453,6 +453,7 @@ a {
   margin: 0 5px;
 }
 
+/*
 .project-technologies {
   display: -ms-grid;
   display: grid;
@@ -462,7 +463,20 @@ a {
   grid-gap: 5px;
   grid-row-gap: 10px;
   width: 100%;
+}*/
+
+.project-technologies {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(120px, 1fr))[auto-fill];
+      grid-template-columns: repeat(4, minmax(120px, 1fr));
+  margin: 20px 0;
+  grid-gap: 5px;
+  grid-row-gap: 10px;
+  width: 100%;
 }
+
+
 
 .project-technology {
   border: 1px solid #222;
