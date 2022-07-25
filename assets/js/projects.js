@@ -26,7 +26,7 @@ let render_projects = (slug) => {
                 /*demo: false*/
                 technologies: ['NLP', 'BERT'],
                 description: "The task of determining the inference relation between two texts: entailment, contradiction, or neutral.",
-                categories: ['dl']
+                categories: ['featured','dl']
             },
             
             {
@@ -65,9 +65,17 @@ let render_projects = (slug) => {
                 technologies: ['GMM'],
                 description: "Derivation of measures to support young entrepreneurs through regional commercial district analysis in YongIn-si,South Korea",
                 categories: ['ml','featured']
-            }
- 
-        
+            },
+            {
+                image: 'assets/images/mobility.jpg',
+                link: 'https://github.com/YoungheeGGO/Seoul_Bigdata_Competition',
+                title: 'Policy Proposal through Data analysis',
+                /*demo: false*/
+                technologies: ['QGIS'],
+                description: "An analysis of the location of shared personal mobility parking spaces in Seoul through population analysis",
+                categories: ['viz']
+            },
+           
     ]
 
     let projects = [];
