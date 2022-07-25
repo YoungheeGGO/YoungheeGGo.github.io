@@ -25,20 +25,28 @@ let render_projects = (slug) => {
                 title: 'Korean NLP Inference',
                 /*demo: false*/
                 technologies: ['NLP', 'BERT'],
-                description: "Recognizing Textual Entailment for Korean - the task of determining the inference relation between two texts: entailment, contradiction, or neutral",
+                description: "The task of determining the inference relation between two texts: entailment, contradiction, or neutral",
                 categories: ['dl']
             },
             
             {
-                image: 'assets/images/bert.png',
+                image: 'assets/images/biostatistics.png',
                 link: 'https://github.com/YoungheeGGO/R-Shiny-IMa3_dashboard',
                 title: 'IMa3 Dashboard',
                 /*demo: false*/
                 technologies: ['Biostatistics', 'Rshiny'],
-                description: "Test Test",
-                categories: ['viz']
+                description: "Dashboard, running after the IMA3 software, for diagnosing MCMCs and parameter plotting",
+                categories: ['featured','viz']
             },
-            
+              {
+                image: 'assets/images/biostatistics.png',
+                link: 'https://github.com/YoungheeGGO/R-Shiny-IMa3_dashboard',
+                title: 'IMa3 Dashboard',
+                /*demo: false*/
+                technologies: ['Biostatistics', 'Rshiny'],
+                description: "Dashboard, running after the IMA3 software, for diagnosing MCMCs and parameter plotting",
+                categories: ['featured','viz']
+            }
  
         
     ]
