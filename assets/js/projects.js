@@ -54,7 +54,6 @@ let project_mapper = project => {
                         <p class="paragraph-text-normal">${project.description} ${project.demo ? `<a href="${project.demo}">Demo</a>` : ''}</p>
                     </article>
                              
-                    <br/>
                     <div class="card__meta">
                         ${project.technologies.map(tech =>
                             `<span class="project-technology paragraph-text-normal">${tech}</span>`
