@@ -12,7 +12,7 @@ img {
 .head {
 
   color: #fff;
-  min-height: 100vh; 
+  min-height: 100vh;
 
   display: -webkit-box;
 
@@ -163,10 +163,10 @@ img {
 }
 
 .section {
-  max-width: 768px; 
+  max-width: 768px;
   margin: 60px auto;
   padding: 20px 0;
-  min-height: 100vh; 
+  min-height: 100vh;
 
   display: -webkit-box;
 
@@ -199,7 +199,6 @@ img {
   color: #222;
   font-weight: bold;
 }
-
 
 .nav-links {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
@@ -293,7 +292,7 @@ img {
 }
 
 .technologies-grid-item {
-  width: 96.6666px; 
+  width: 96.6666px;
   height: 96.6666px;
   background-color: #fff;
 }
@@ -326,12 +325,12 @@ img {
   margin: 10px 0;
   float: right;
   font-weight: 500;
-  font-size: 16px; 
+  font-size: 16px;
   font-size: 1rem;
 }
 
 .project-tags {
-  margin: 20px 0; 
+  margin: 20px 0;
 }
 
 .project-tag-item {
@@ -359,11 +358,11 @@ img {
   transition: all ease-in-out 0.3s;
 }
 
-/*.more-blogs {
+.more-blogs {
   font-size: 16px;
   font-size: 1rem;
   margin: 15px 0 20px;
-}*/
+}
 
 .slightly-smaller-text {
   font-size: 14.4px;
@@ -453,7 +452,6 @@ a {
   margin: 0 5px;
 }
 
-/*
 .project-technologies {
   display: -ms-grid;
   display: grid;
@@ -463,20 +461,7 @@ a {
   grid-gap: 5px;
   grid-row-gap: 10px;
   width: 100%;
-}*/
-
-.project-technologies {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (minmax(120px, 1fr))[auto-fill];
-      grid-template-columns: repeat(4, minmax(120px, 1fr));
-  margin: 20px 0;
-  grid-gap: 5px;
-  grid-row-gap: 10px;
-  width: 100%;
 }
-
-
 
 .project-technology {
   border: 1px solid #222;
@@ -494,7 +479,7 @@ a {
 }
 
 /* Here follow all the media queries */
-@media screen and (max-width: 850px) { 
+@media screen and (max-width: 850px) {
 
   .section {
     padding-left: 15px;
@@ -502,7 +487,7 @@ a {
   }
 }
 
-@media screen and (max-width: 775px) { 
+@media screen and (max-width: 775px) {
   .project-technologies {
     -ms-grid-columns: auto auto auto;
         grid-template-columns: auto auto auto;
@@ -513,7 +498,7 @@ a {
   }
 }
 
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
 
   .head-menu-wrap {
     -ms-grid-columns: auto auto;
@@ -594,7 +579,6 @@ a {
     bottom: 15px;
   }
 }
-
 
 
 /************************************************/
