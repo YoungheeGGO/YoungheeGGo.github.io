@@ -56,7 +56,7 @@ let project_mapper = project => {
                                 
                     <div class="card__meta">
                         ${project.technologies.map(tech =>
-                            `<span class="project-technology paragraph-text-normal">${tech}</span>`
+                            `<br/><span class="project-technology paragraph-text-normal">${tech}</span>`
                         ).join('')}
                     </div>
                 </div>
