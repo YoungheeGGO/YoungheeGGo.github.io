@@ -34,7 +34,7 @@ let render_projects = (slug) => {
                 link: 'https://github.com/YoungheeGGO/R-Shiny-IMa3_dashboard',
                 title: 'IMa3 Dashboard',
                 /*demo: false*/
-                technologies: ['Biostatistics', 'Rshiny'],
+                technologies: ['Biostatistics'],
                 description: "Dashboard, running with the IMA3 software\'s output, for diagnosing MCMCs and parameter plotting",
                 categories: ['featured','viz']
             },
@@ -43,7 +43,7 @@ let render_projects = (slug) => {
                 link: 'https://github.com/YoungheeGGO/TimeSeriesData-Analysis',
                 title: 'Prediction Apartment Price',
                 /*demo: false*/
-                technologies: ['Stationary', 'ARIMA'],
+                technologies: ['ARIMA'],
                 description: "Prediction of the actual apartment transaction price index in Seoul using time series analysis methods.",
                 categories: ['ml']
             }
