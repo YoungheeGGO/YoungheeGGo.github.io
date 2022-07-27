@@ -6,6 +6,7 @@
 
 <br/>
 
+- 최신 플젝/커리어는 가장 상위에 위치하여 추가하기~!!!
 - A file compling 'careers' is "blog.html"
 
 # Portfolio
