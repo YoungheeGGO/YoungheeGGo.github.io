@@ -67,7 +67,7 @@ let render_projects = (slug) => {
                 categories: ['ml','featured']
             },
             {
-                image: 'assets/images/mobility.jpg',
+                image: 'assets/images/mobility-re.jpg',
                 link: 'https://github.com/YoungheeGGO/Seoul_Bigdata_Competition',
                 title: 'Policy Proposal through Data analysis',
                 /*demo: false*/
@@ -84,8 +84,17 @@ let render_projects = (slug) => {
                 technologies: ['Tableau','WordCloud'],
                 description: "Grasping the trends of children's books over time from the perspective of parents and children respectively.",
                 categories: ['viz']
-            }            
+            },
             
+            {
+                image: 'assets/images/rgbrand-url.png',
+                link: 'https://github.com/YoungheeGGO/RGBrand',
+                title: 'RGBrand',
+                /*demo: false*/
+                technologies: ['K-means','Tableau'],
+                description: "We analyzed brand logo colors and adjectives. Logo color was extracted by the k-means method.",
+                categories: ['ml']
+            }
            
     ]
 
