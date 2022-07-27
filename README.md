@@ -1,8 +1,10 @@
 - project부분 변경 -> technologies tag 마진 조정하기! [ok]
 - blog -> work experiences 로 바꾸기 (와 이거 내가 원하는 디자인대로 될까...?) -> 됨!!! 내가 해냈따아!~!!!! [ok]
 - RGBrand 링크 복구하기 [ok] -> project 9번 10번 추가해야댐
+- 레포들 다 영어로 변경
 
 <br/>
+
 - A file compling 'careers' is "blog.html"
 
 # Portfolio
