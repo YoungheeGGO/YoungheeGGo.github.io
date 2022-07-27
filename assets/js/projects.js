@@ -103,7 +103,7 @@ let render_projects = (slug) => {
                 /*demo: false*/
                 technologies: ['Vision','EfficientNet'],
                 description: "Classifying the lung CT images between covid19 patients and non.  In the EfficientNet Model, I obtained 82% test accuracy. ",
-                categories: ['ml']
+                categories: ['dl']
             },
            
     ]
