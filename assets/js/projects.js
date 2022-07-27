@@ -97,7 +97,7 @@ let render_projects = (slug) => {
             },
             
             {
-                image: 'assets/images/covid19-re.jpg',
+                image: 'assets/images/covid19-large.jpg',
                 link: 'https://github.com/YoungheeGGO/COVID19-Classification',
                 title: 'Covid19 Classification',
                 /*demo: false*/
