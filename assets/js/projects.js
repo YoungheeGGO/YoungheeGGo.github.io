@@ -67,7 +67,7 @@ let render_projects = (slug) => {
                 categories: ['ml','featured']
             },
             {
-                image: 'assets/images/mobility-re.jpg',
+                image: 'assets/images/mobility-cut.jpg',
                 link: 'https://github.com/YoungheeGGO/Seoul_Bigdata_Competition',
                 title: 'Policy Proposal through Data analysis',
                 /*demo: false*/
@@ -92,9 +92,19 @@ let render_projects = (slug) => {
                 title: 'RGBrand',
                 /*demo: false*/
                 technologies: ['K-means','Tableau'],
-                description: "We analyzed brand logo colors and adjectives. Logo color was extracted by the k-means method.",
+                description: "Analyzing brand logo colors and adjectives. Logo color was extracted by the k-means method.",
                 categories: ['ml']
-            }
+            },
+            
+            {
+                image: 'assets/images/covid19.jpg',
+                link: 'https://github.com/YoungheeGGO/COVID19-Classification',
+                title: 'Covid19 Classification',
+                /*demo: false*/
+                technologies: ['Vision','EfficientNet'],
+                description: "Classifying the lung CT images between covid19 patients and non.  In the EfficientNet Model, I obtained 82% test accuracy. ",
+                categories: ['ml']
+            },
            
     ]
 
