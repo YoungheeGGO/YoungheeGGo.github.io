@@ -67,7 +67,7 @@ let render_projects = (slug) => {
                 categories: ['ml','featured']
             },
             {
-                image: 'assets/images/mobility-cut.jpg',
+                image: 'assets/images/mobility-cut_.jpg',
                 link: 'https://github.com/YoungheeGGO/Seoul_Bigdata_Competition',
                 title: 'Policy Proposal through Data analysis',
                 /*demo: false*/
