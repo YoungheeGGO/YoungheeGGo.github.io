@@ -60,7 +60,7 @@ let render_projects = (slug) => {
             {
                 image: 'assets/images/yongin.png',
                 link: 'https://github.com/YoungheeGGO/Yong-In-Si-Bigdata-Competition',
-                title: 'Hot-spot Analysis for Business Location',
+                title: 'Business Location analysis',
                 /*demo: false*/
                 technologies: ['GMM'],
                 description: "Derivation of measures to support young entrepreneurs through regional commercial district analysis in YongIn-si,South Korea",
