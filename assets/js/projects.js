@@ -105,6 +105,16 @@ let render_projects = (slug) => {
                 description: "Classifying the lung CT images between covid19 patients and non.  In the EfficientNet Model, I obtained 82% test accuracy. ",
                 categories: ['dl']
             },
+             {
+                image: 'assets/images/construction.jpg',
+                link: '',
+                title: 'Second Hand Price',
+                /*demo: false*/
+                technologies: ['regression'],
+                description: "This page is under construction.",
+                categories: ['ml']
+            }
+           
            
     ]
 
