@@ -17,7 +17,7 @@ let render_projects = (slug) => {
                 title: 'Second Hand Price',
                 /*demo: false*/
                 technologies: ['Regression'],
-                description: "The project is on going. This page is under construction.V",
+                description: "The project is on going. This page is under construction.",
                 categories: ['paper']
             },
            
