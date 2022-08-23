@@ -112,7 +112,7 @@ let render_projects = (slug) => {
                 /*demo: false*/
                 technologies: ['regression'],
                 description: "This page is under construction.",
-                categories: ['ml']
+                categories: ['paper']
             }
            
            
