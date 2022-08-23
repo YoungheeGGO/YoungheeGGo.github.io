@@ -12,7 +12,7 @@ let render_projects = (slug) => {
         let projects_obj = [
             
             {
-                image: 'assets/images/construction.jpg',
+                image: 'assets/images/coming.PNG',
                 link: 'https://github.com/YoungheeGGO/Second-Hand-price',
                 title: 'Second Hand Price',
                 /*demo: false*/
