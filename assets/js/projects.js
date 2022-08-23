@@ -10,6 +10,17 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
         let projects_obj = [
+            
+            {
+                image: 'assets/images/construction.jpg',
+                link: 'https://github.com/YoungheeGGO/Second-Hand-price',
+                title: 'Second Hand Price',
+                /*demo: false*/
+                technologies: ['regression'],
+                description: "This page is under construction. This project is on going.",
+                categories: ['paper']
+            },
+           
             {
                 image: 'assets/images/social_isolation.jpg',
                 link: 'https://github.com/YoungheeGGO/Social_Isolation_for_20s',
@@ -104,17 +115,7 @@ let render_projects = (slug) => {
                 technologies: ['Vision','EfficientNet'],
                 description: "Classifying the lung CT images between covid19 patients and non.  In the EfficientNet Model, I obtained 82% test accuracy. ",
                 categories: ['dl']
-            },
-             {
-                image: 'assets/images/construction.jpg',
-                link: 'https://github.com/YoungheeGGO/Second-Hand-price',
-                title: 'Second Hand Price',
-                /*demo: false*/
-                technologies: ['regression'],
-                description: "This page is under construction.",
-                categories: ['paper']
             }
-           
            
     ]
 
