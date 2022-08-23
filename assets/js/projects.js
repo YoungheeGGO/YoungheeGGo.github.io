@@ -107,7 +107,7 @@ let render_projects = (slug) => {
             },
              {
                 image: 'assets/images/construction.jpg',
-                link: '',
+                link: 'https://github.com/YoungheeGGO/Second-Hand-price',
                 title: 'Second Hand Price',
                 /*demo: false*/
                 technologies: ['regression'],
