@@ -16,7 +16,7 @@ let render_projects = (slug) => {
                 link: 'https://github.com/YoungheeGGO/Second-Hand-price',
                 title: 'Second Hand Price',
                 /*demo: false*/
-                technologies: ['regression'],
+                technologies: ['Regression'],
                 description: "This page is under construction. This project is on going.",
                 categories: ['paper']
             },
